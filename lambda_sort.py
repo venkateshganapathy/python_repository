@@ -10,6 +10,7 @@ names_list = f.read().splitlines()
 names_list.sort()
 print(names_list)
 
+
 #square = lambda x:x*x
 #which is exactly the same as defining a square function like this
 # def square(x):
